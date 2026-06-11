@@ -22,6 +22,7 @@ body {
   border-radius: 16px;
   margin-bottom: 30px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align:center;
 }
 
 .header h1 {
@@ -411,6 +412,7 @@ small {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
+  text-align:center;
 }
 
 /* .preview {
